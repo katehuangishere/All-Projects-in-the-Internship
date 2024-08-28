@@ -50,13 +50,13 @@
         <mxCell id="FUNJFnEwx6fy59qMaxHP-40" value="&lt;div&gt;External Learning Resources Recommendation&lt;/div&gt;" style="text;strokeColor=#000000;fillColor=#8CD790;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FUNJFnEwx6fy59qMaxHP-39">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FUNJFnEwx6fy59qMaxHP-41" value="DA30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-41" value="My Dept." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FUNJFnEwx6fy59qMaxHP-42" value="DA30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-42" value="My Dept." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FUNJFnEwx6fy59qMaxHP-43" value="AD10 (HR)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-43" value="Dept. HR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="265" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
