@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="Z8hETCGOK5S6t_2NCr5Q">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUNJFnEwx6fy59qMaxHP-34" target="FUNJFnEwx6fy59qMaxHP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUNJFnEwx6fy59qMaxHP-34" target="FUNJFnEwx6fy59qMaxHP-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="200" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUNJFnEwx6fy59qMaxHP-34" target="FUNJFnEwx6fy59qMaxHP-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="600" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-34" value="July &amp;amp; August" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#77AF9C;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-35" value="&lt;b&gt;BI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#F8FAFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="175" width="140" height="90" as="geometry">
+            <mxRectangle x="150" y="160" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-36" value="&lt;font color=&quot;#000000&quot;&gt;E-store Report&lt;/font&gt;" style="text;strokeColor=default;fillColor=#8CD790;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="FUNJFnEwx6fy59qMaxHP-35">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-37" value="&lt;b&gt;AI-Enabled BI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#F8FAFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="175" width="140" height="90" as="geometry">
+            <mxRectangle x="150" y="160" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-38" value="&lt;font color=&quot;#000000&quot;&gt;Intelligent Assistants&lt;/font&gt;" style="text;strokeColor=#000000;fillColor=#8CD790;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="FUNJFnEwx6fy59qMaxHP-37">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-39" value="&lt;b&gt;AI Applications&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#F8FAFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="175" width="140" height="90" as="geometry">
+            <mxRectangle x="150" y="160" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-40" value="&lt;div&gt;External Learning Resources Recommendation&lt;/div&gt;" style="text;strokeColor=#000000;fillColor=#8CD790;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FUNJFnEwx6fy59qMaxHP-39">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-41" value="DA30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-42" value="DA30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUNJFnEwx6fy59qMaxHP-43" value="AD10 (HR)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="265" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
